@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.o
+*.elf
+*.so
+*.bak
+original/
+local/
+new-SaiQFFB5.dll
+patched/
